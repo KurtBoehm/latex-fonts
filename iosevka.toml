@@ -1,0 +1,65 @@
+[buildPlans.IosevkaMono]
+family = "Iosevka Mono"
+spacing = "fixed"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+noLigation = true
+
+[buildPlans.IosevkaMono.variants.design]
+four = "closed-serifless"
+six = "closed-contour"
+eight = "two-circles"
+nine = "closed-contour"
+capital-g = "toothless-rounded-serifless-hooked"
+f = "flat-hook-serifless"
+g = "single-storey-flat-hook-serifless"
+i = "serifed-flat-tailed"
+j = "flat-hook-serifed"
+l = "serifed-flat-tailed"
+r = "hookless-serifless"
+t = "flat-hook"
+y = "cursive-flat-hook-serifless"
+long-s = "flat-hook-serifless"
+at = "fourfold"
+dollar = "open"
+cent = "open"
+question = "corner-flat-hooked"
+
+[buildPlans.IosevkaMono.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaQuasi]
+family = "Iosevka Quasi"
+spacing = "quasi-proportional"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+noLigation = true
+
+[buildPlans.IosevkaQuasi.variants.design]
+four = "closed-serifless"
+six = "closed-contour"
+eight = "two-circles"
+nine = "closed-contour"
+capital-g = "toothless-rounded-serifless-hooked"
+f = "flat-hook-serifless"
+g = "single-storey-flat-hook-serifless"
+i = "serifed-flat-tailed"
+j = "flat-hook-serifed"
+l = "serifed-flat-tailed"
+r = "hookless-serifless"
+t = "flat-hook"
+y = "cursive-flat-hook-serifless"
+long-s = "flat-hook-serifless"
+at = "fourfold"
+dollar = "open"
+cent = "open"
+question = "corner-flat-hooked"
+
+[buildPlans.IosevkaQuasi.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
